@@ -35,4 +35,4 @@ I'd like to point out that this is mainly focused on fixing the theme for "4:3" 
 Elementerial was fixed for the following resolution:
 - **640x480** (4:3 screen ratio), tested on R36H running dArkOS, ArkOS-R3XS and ArkOS4Clones
 
-\* It's possible to use this edit in other resolutions and systems based on EmulationStation, however full compatibility is not guaranteed at all. This was made with ONE specific platform in mind.
+\* It's possible to use this theme in other resolutions and systems based on EmulationStation, however full compatibility is not guaranteed at all. This was made with ONE specific aspect ratio in mind.
