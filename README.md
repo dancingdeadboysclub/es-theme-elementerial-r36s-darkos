@@ -25,7 +25,6 @@ I'd like to point out that this is mainly focused on fixing the theme for "4:3" 
 # Last changes
 ```
 - Some extra systems on ArkOS4Clones now have icons/backgrounds.
-- Remade "osd-bg.png" to better improve readability.
 ```
 
 
